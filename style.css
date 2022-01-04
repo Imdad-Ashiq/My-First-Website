@@ -1,0 +1,51 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.h1{
+    color: green;
+}
+
+span{
+    color: tomato;
+}
+
+.section-1{
+    display: flex;
+    margin-bottom: 200px;
+    background-image: url(images/download.jfif);
+    background-repeat: no-repeat;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 100%;
+}
+
+.link-button{
+    color: white;
+    font-weight: 400;
+    text-decoration: none;
+    background-image: linear-gradient(green, rgb(51, 238, 51) );
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.section-2{
+    display: flex;
+    margin-bottom: 200px;
+    background-image: url(images/download.jfif);
+    background-repeat: no-repeat;
+    background-position: right;
+}
